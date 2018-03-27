@@ -4,7 +4,7 @@
 
 
 ![logo]
-(https://github.com/z3213/partymago.com/blob/master/logo.jpeg)
+(https://github.com/z3213/partymago.com/blob/master/logo.png)
 
 
 2018 Copyright. All Rights Reserved. 
