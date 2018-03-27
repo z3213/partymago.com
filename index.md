@@ -3,6 +3,7 @@
 
 
 
+![logo]
 (https://github.com/z3213/partymago.com/blob/master/logo.jpeg)
 
 
