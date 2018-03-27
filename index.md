@@ -1,7 +1,10 @@
-# Pagina Web en contrucción
+# PartyMago en Contrucción
 
 
-Party Mago en Contrucción
+
+
+[logo]: https://github.com/z3213/partymago.com/blob/master/logo.jpeg
+
 
 2018 Copyright. All Rights Reserved. 
 
